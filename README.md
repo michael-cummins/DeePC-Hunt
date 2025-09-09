@@ -50,11 +50,13 @@ https://github.com/michael-cummins/DeePC-Hunt/assets/72135336/b88aedf8-b816-4a89
 If you use DeePC-Hunt in your research or found the ideas useful, please cite the [paper](https://arxiv.org/abs/2412.06481)
 
 ```
-@article{cummins2024deepc,
+@article{cummins2025deepc,
   title={DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization},
-  author={Cummins, Michael and Padoan, Alberto and Moffat, Keith and Dorfler, Florian and Lygeros, John},
-  journal={arXiv preprint arXiv:2412.06481},
-  year={2024}
+  author={Cummins, Michael and Padoan, Alberto and Moffat, Keith and D{\"o}rfler, Florian and Lygeros, John},
+  journal={Proceedings of Machine Learning Research vol},
+  volume={283},
+  pages={1--13},
+  year={2025}
 }
 ```
 
